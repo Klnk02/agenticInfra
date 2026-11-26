@@ -1,0 +1,9 @@
+# Local-only runs, evidence and credentials
+__pycache__/
+*.py[cod]
+.venv*/
+.env
+.env.*
+.runs/
+*.sqlite*
+证据/个人/
